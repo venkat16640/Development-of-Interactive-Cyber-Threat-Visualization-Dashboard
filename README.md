@@ -1,6 +1,8 @@
 Development-of-Interactive-Cyber-Threat-Visualization-Dashboard
 
-Development Repository: View Source Code on GitHub
+Development Repository: (https://github.com/venkat16640/cybersecturity-dashboard-)
+
+
 The proposed project, Development of an Interactive Cyber Threat Visualization Dashboard, aims to design and implement a real-time, data-driven platform that provides cybersecurity analysts with a clear and intuitive view of the evolving threat landscape. Modern organizations face an overwhelming volume of security alerts and vulnerability information, making it difficult to quickly identify critical risks and emerging attack patterns. This project addresses that challenge by consolidating multiple streams of cyber threat intelligence into a unified, interactive visual environment.
 
 The system focuses on continuously gathering live threat data from publicly available sources such as vulnerability feeds and malicious IP intelligence. This data is processed and enriched to provide meaningful context, including geographical origin, severity indicators, and standardized threat classifications. By transforming raw security data into structured and visually interpretable information, the platform enables faster situational awareness and more informed decision-making.
